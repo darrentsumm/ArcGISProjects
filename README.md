@@ -1,5 +1,5 @@
 # ArcGISProjects
-This repository includes beginner ArcGIS projects that I created to test what I learned from ESRI training. 
+This repository includes beginner ArcGIS projects that I created to test what I learned from ESRI training. I've been using ArcGIS for a week, and ArcGIS Pro for 2 days, so I hope I shared everything correctly.
 
 "UNCC Dorms and Food" shows how access to food changes depending on which dorm an on-campus student may reside in at UNC Charlotte. The color gradient shows distance to a food hall (green representing close, red representing far), transparency shows the capacity of the given dorm (transparent representing an empty dorm), and the outline represents whether the dorm rooms feature kitchens, as shown in the legend. 
 
